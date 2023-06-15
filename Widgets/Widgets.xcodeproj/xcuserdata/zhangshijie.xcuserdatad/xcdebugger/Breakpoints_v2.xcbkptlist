@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "AB4460C1-EDEF-4B3A-BD25-91B219E21CF2"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0F3A2DF0-93A8-4CB3-921E-0472D421B6A0"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "widget/widget.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "getTimeline(for:in:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "0F3A2DF0-93A8-4CB3-921E-0472D421B6A0 - c2c01f1041fc7cd3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CLLocation&gt;) -&gt; () in widgetExtension.Provider.getTimeline(for: widgetExtension.ConfigurationIntent, in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;widgetExtension.SimpleEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "widgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangshijie/Documents/c_cpp_rust_workspace/widgets/Widgets/widget/widget.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "50"
+                  endingLineNumber = "50"
+                  offsetFromSymbolStart = "600">
+               </Location>
+               <Location
+                  uuid = "0F3A2DF0-93A8-4CB3-921E-0472D421B6A0 - c2c01f1041fc7c30"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.CLLocation&gt;) -&gt; () in widgetExtension.Provider.getTimeline(for: widgetExtension.ConfigurationIntent, in: WidgetKit.TimelineProviderContext, completion: (WidgetKit.Timeline&lt;widgetExtension.SimpleEntry&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "widgetExtension"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhangshijie/Documents/c_cpp_rust_workspace/widgets/Widgets/widget/widget.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "47"
+                  endingLineNumber = "47"
+                  offsetFromSymbolStart = "600">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
